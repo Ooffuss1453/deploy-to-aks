@@ -19,7 +19,7 @@ variables:
   imagePullSecret: 'faroprodregistry2025eac2-auth'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  #vmImageName: 'ubuntu-latest'
 
 
 stages:
